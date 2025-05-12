@@ -7,5 +7,6 @@ editor: visual
 ## Hello, Quarto!
 This is a simple Quarto document demonstrating Git and GitHub workflow.
 
-## Confilct Section
+## Merged Section
 This content comes from the main branch and will conflict.
+This is the new content added from testbranch.
