@@ -1,0 +1,8 @@
+---
+title: "example.qmd"
+format: html
+editor: visual
+---
+
+## Hello, Quarto!
+This is a simple Quarto document demonstrating Git and GitHub workflow.
